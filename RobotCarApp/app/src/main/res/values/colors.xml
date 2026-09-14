@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.RobotCarApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+    
+    <!-- Dark Theme Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_card">#FF2C2C2C</color>
+    <color name="primary">#FF03DAC5</color>
+    <color name="primary_variant">#FF018786</color>
+    <color name="secondary">#FFBB86FC</color>
+    <color name="error">#FFCF6679</color>
+    <color name="on_primary">#FF000000</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_background">#FFFFFFFF</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="on_error">#FF000000</color>
+    
+    <!-- Control Button Colors -->
+    <color name="forward_color">#FF4CAF50</color>
+    <color name="backward_color">#FFF44336</color>
+    <color name="left_color">#FF2196F3</color>
+    <color name="right_color">#FFFFC107</color>
+    <color name="stop_color">#FF9E9E9E</color>
+    
+    <!-- Status Colors -->
+    <color name="connected_green">#FF4CAF50</color>
+    <color name="disconnected_red">#FFF44336</color>
+    <color name="connecting_yellow">#FFFFC107</color>
+</resources>
