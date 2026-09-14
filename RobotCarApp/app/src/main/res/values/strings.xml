@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Robot Car Controller</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_control">Control</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_camera">Camera</string>
+    <string name="nav_patrol">Patrol</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Robot Car Dashboard</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="robot_status">Robot Status</string>
+    
+    <!-- Control -->
+    <string name="control_title">Manual Control</string>
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="stop">Stop</string>
+    <string name="speed_control">Speed Control</string>
+    
+    <!-- Camera -->
+    <string name="camera_title">Live Camera Feed</string>
+    <string name="led_toggle">LED Toggle</string>
+    <string name="buzzer_toggle">Buzzer Toggle</string>
+    <string name="camera_quality">Camera Quality</string>
+    
+    <!-- Map -->
+    <string name="map_title">Location Map</string>
+    <string name="current_location">Current Location</string>
+    <string name="destination">Destination</string>
+    <string name="navigate">Navigate</string>
+    
+    <!-- Patrol -->
+    <string name="patrol_title">Patrol Mode</string>
+    <string name="start_patrol">Start Patrol</string>
+    <string name="stop_patrol">Stop Patrol</string>
+    <string name="waypoints">Waypoints</string>
+    <string name="add_waypoint">Add Waypoint</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="wifi_settings">WiFi Settings</string>
+    <string name="bluetooth_settings">Bluetooth Settings</string>
+    <string name="connect_wifi">Connect to WiFi</string>
+    <string name="connect_bluetooth">Connect Bluetooth</string>
+    <string name="shutdown_robot">Shut Down Robot</string>
+    <string name="about">About</string>
+    
+    <!-- Connection -->
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="scan_devices">Scan Devices</string>
+    <string name="pair_device">Pair Device</string>
+    
+    <!-- Alerts -->
+    <string name="alert_error">Error</string>
+    <string name="alert_success">Success</string>
+    <string name="alert_warning">Warning</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="camera_permission_denied">Camera permission is required for live feed</string>
+    <string name="location_permission_denied">Location permission is required for maps</string>
+    <string name="bluetooth_not_supported">Bluetooth is not supported on this device</string>
+</resources>
